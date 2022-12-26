@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\id student\desktop\william d\game of life\game of life\main.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game of Life.vcxproj -> C:\Users\iD Student\Desktop\William D\Game of Life\x64\Debug\Game of Life.exe
+  Game of Life.vcxproj -> C:\Users\iD Student\Desktop\William D\Game of Life\x64\Debug\Game of Life.pdb (Full PDB)
